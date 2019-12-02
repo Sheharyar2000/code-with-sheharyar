@@ -1,0 +1,84 @@
+<aiml version="1.0.1" encoding="UTF-8">
+
+<!-- English_Language_Chat.aiml -->
+
+#changing of affirmative simple present sentences into negative 
+<category>
+       <pattern>I go to school</pattern>
+<template>I donot go to school
+</template>
+</category>
+
+<category>
+       <pattern>I work at office</pattern>
+<template>I donot donot work at office
+</template>
+</category>
+
+<category>
+       <pattern>I live in karachi</pattern>
+<template>I donot live in karachi
+</template>
+</category>
+
+#changing of affirmative simple present sentences into interogative
+<category>
+       <pattern>I go to school</pattern>
+<template>Do I go to school ?
+</template>
+</category>
+
+<category>
+       <pattern>I work at office </pattern>
+<template>Do I work at office ?
+</template>
+</category>
+
+
+<category>
+       <pattern>I live in karchi </pattern>
+<template>Do I live in karachi ?
+</template>
+</category>
+
+
+#changing of affirmative  present continuous sentences into negative
+<category>
+       <pattern>I am going to school </pattern>
+<template>I am not going to school
+</template>
+</category>
+
+<category>
+       <pattern>I am working at office </pattern>
+<template>I am not working at office
+</template>
+</category>
+
+<category>
+       <pattern>I am living in karachi </pattern>
+<template>I am not living in karachi
+</template>
+</category>
+
+
+#cahnging of affirmative present continuous sentences into interrogative
+<category>
+       <pattern>I am going to school </pattern>
+<template>Am I going to school ?
+</template>
+</category>
+
+<category>
+       <pattern>I am working at office </pattern>
+<template>Am I working at office ?
+</template>
+</category>
+
+<category>
+       <pattern>I am living in karachi </pattern>
+<template>Am I living in karchi ?
+</template>
+</category>
+
+</aiml>
